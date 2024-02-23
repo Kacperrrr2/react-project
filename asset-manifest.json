@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kacperrrr2.github.io/react-project/static/css/main.c4009d09.css",
+    "main.js": "/Kacperrrr2.github.io/react-project/static/js/main.249f48af.js",
+    "static/js/453.e036e8b5.chunk.js": "/Kacperrrr2.github.io/react-project/static/js/453.e036e8b5.chunk.js",
+    "index.html": "/Kacperrrr2.github.io/react-project/index.html",
+    "main.c4009d09.css.map": "/Kacperrrr2.github.io/react-project/static/css/main.c4009d09.css.map",
+    "main.249f48af.js.map": "/Kacperrrr2.github.io/react-project/static/js/main.249f48af.js.map",
+    "453.e036e8b5.chunk.js.map": "/Kacperrrr2.github.io/react-project/static/js/453.e036e8b5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4009d09.css",
+    "static/js/main.249f48af.js"
+  ]
+}
